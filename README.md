@@ -2,6 +2,8 @@
 
 Real-time aurora borealis over a frozen lake. WebGL2 fragment shaders, one HTML file, no dependencies.
 
+Live: https://aurora-frozen-lake.vercel.app
+
 ## Run
 
 Open `src/index.html` in a browser with WebGL2, or serve the folder:
